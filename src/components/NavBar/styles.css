@@ -1,0 +1,14 @@
+.navbar-inner {
+  background-color: rgba(0,0,0,0.0);
+}
+
+.navbar-center {
+  display: inline-block;
+  float: none;
+  padding-top: 1em;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #000;
+  font-size: 20px;
+}
